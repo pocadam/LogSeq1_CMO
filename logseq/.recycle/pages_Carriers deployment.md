@@ -1,0 +1,2 @@
+- http://www.gonavy.jp/CV-CV66f.html
+- ![image.png](../assets/image_1754478814134_0.png){:height 385, :width 316}

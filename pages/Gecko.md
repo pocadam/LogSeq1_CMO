@@ -1,0 +1,16 @@
+- ![image.png](../assets/image_1754725976385_0.png){:height 911, :width 1223}
+  collapsed:: true
+	- alias:: SA-8b, Osa, 9K33M3
+	- ### Major characteristics ![image.png](../assets/image_1754739090556_0.png)
+	-
+- ## -->Major US aerial threats
+	- ### Overview of US aircrafts capabilities for Sam detection
+		- ![image.png](../assets/image_1754755218151_0.png)
+	- ### Aircraft capable of classifying a SAM without additional support
+		- ![image.png](../assets/image_1754754742603_0.png)
+	-
+	- ### Aircraft capable of classifying a SAM with an additional support  aircraft (Buddy)
+		- ![image.png](../assets/image_1754759832191_0.png)
+- ## -->A-6E
+- ## -->F-16C
+- ## -->F-4G

@@ -1,0 +1,1 @@
+- ![Mig-21bis_R-13M_Fire_Syria4.PNG](../assets/Mig-21bis_R-13M_Fire_Syria4_1754575623090_0.PNG) #R-13, #R-60, #A-4

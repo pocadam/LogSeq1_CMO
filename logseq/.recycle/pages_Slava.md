@@ -1,0 +1,3 @@
+- ![Slava_SS-N-12_SP9.JPG](../assets/Slava_SS-N-12_SP9_1754486940154_0.JPG)
+- DONE Slava #card
+- ((68935a49-392a-495c-9add-fcef538642e4))

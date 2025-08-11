@@ -1,0 +1,5 @@
+- ![image.png](../assets/image_1754816433054_0.png)
+- ## Active Radar Emission (My radar)
+- ## Active EO (TV), IR or Laser Emission
+- ## Opponent Radar Emission
+	- ### [[Specific Emitter ID (Radar ID)]]
