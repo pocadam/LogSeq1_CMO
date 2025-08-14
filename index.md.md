@@ -1,12 +1,13 @@
 - Ticonderoga
-	- public:: true
 	- alias:: Ticon, CG-47
 	- ![image.png](../assets/image_1754666011619_0.png)
+	  collapsed:: true
+		- ![image.png](../assets/image_1754934540388_0.png)
 	- ## Surface-Surface Combat
 		- ### -->Sovremenny (Otlichnyy) 1982 #RMG-84, #SS-N-22, #RIM-66, #SA-N-7
 		  collapsed:: true
 			- ![image.png](../assets/image_1754856698131_0.png)
-			- ![image.png](../assets/image_1754662335198_0.png){:height 832, :width 1217}
+			- ![image.png](../assets/image_1754662335198_0.png){:height 825, :width 1217}
 				- ![image.png](../assets/image_1754663248585_0.png)
 				- ![image.png](../assets/image_1754663520960_0.png)
 		- ### -->Slava 1986

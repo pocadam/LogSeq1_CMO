@@ -7,7 +7,7 @@
 	- ### Overview of US aircrafts capabilities for Sam detection
 		- ![image.png](../assets/image_1754755218151_0.png)
 	- ### Aircraft capable of classifying a SAM without additional support
-		- ![image.png](../assets/image_1754754742603_0.png)
+		- ![image.png](../assets/image_1754754742603_0.png){:height 868, :width 1248} #AGM-65
 	-
 	- ### Aircraft capable of classifying a SAM with an additional support  aircraft (Buddy)
 		- ![image.png](../assets/image_1754759832191_0.png)
